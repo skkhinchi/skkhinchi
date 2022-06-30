@@ -1,8 +1,8 @@
 [![MasterHead](https://www.technoloader.com/blog/wp-content/uploads/2020/01/Hire-React-Native.gif)](https://github.com/skkhinchi)
 <h1 align="center">Hi 👋, I'm Sumit Khinchi</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
-<p align="left"> <img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="skkhinchi" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="" /></a> </p>
 
