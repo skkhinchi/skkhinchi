@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://yt3.ggpht.com/ytc/AKedOLTF1PE601YuWnyRxK70y3sRURjJ1ck1TjEkX54jCA=s900-c-k-c0x00ffffff-no-rj" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **AUGMENTOLABS**
 
