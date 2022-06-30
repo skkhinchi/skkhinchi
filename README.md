@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Khinchi</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://yt3.ggpht.com/ytc/AKedOLTF1PE601YuWnyRxK70y3sRURjJ1ck1TjEkX54jCA=s900-c-k-c0x00ffffff-no-rj" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **AUGMENTOLABS**
 
 - 🌱 I’m currently learning **Dot Net**
