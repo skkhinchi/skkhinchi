@@ -1,4 +1,3 @@
-[![MasterHead](https://www.technoloader.com/blog/wp-content/uploads/2020/01/Hire-React-Native.gif)](https://github.com/skkhinchi)
 <h1 align="center">Hi 👋, I'm Sumit Khinchi</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
