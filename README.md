@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dot Net**
 
-- 👨‍💻 All of my projects are available at [https://github.com/skkhinchi](https://github.com/skkhinchi)
+- 👨‍💻 All of my projects are available at [https://github.com/skkhinchi?tab=repositories](https://github.com/skkhinchi?tab=repositories)
 
 - 💬 Ask me about **JavascriptTypescript, React, Electron JS, JAva, Spring Boot**
 
