@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sumit Khinchi</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on **AUGMENTOLABS**
+- 🔭 I’m currently working on **Citius Tech**
 
-- 🌱 I’m currently learning **Dot Net**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/skkhinchi?tab=repositories](https://github.com/skkhinchi?tab=repositories)
 
-- 💬 Ask me about **JavascriptTypescript, React, Electron JS, JAva, Spring Boot**
+- 💬 Ask me about **Javascript, Typescript, React, GraphQL, Next JS, Java, Spring Boot**
 
 - 📫 How to reach me **Khinchi.skumar@gmail.com**
 
