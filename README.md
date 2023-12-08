@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/skkhinchi?tab=repositories](https://github.com/skkhinchi?tab=repositories)
 
-- 💬 Ask me about **Javascript, Typescript, React, GraphQL, Next JS, Java, Spring Boot**
+- 💬 Ask me about **Javascript, Typescript, React, Java, Spring Boot**
 
 - 📫 How to reach me **Khinchi.skumar@gmail.com**
 
